@@ -84,28 +84,6 @@ A simple file management system built using **Vue.js**, **PHP**, and **MySQL**. 
 
 ---
 
-### Project Structure
-   '''bash
-   file-management-system/
-   ├── backend/
-   │   ├── db.php
-   │   ├── upload.php
-   │   ├── delete.php
-   │   ├── files.php
-   ├── frontend/
-   │   ├── src/
-   │   │   ├── components/
-   │   │   │   ├── FileList.vue
-   │   │   │   ├── UploadFile.vue
-   │   │   ├── router/
-   │   │   │   ├── index.js
-   │   │   ├── main.js
-   │   ├── public/
-   │   ├── package.json
-   │   ├── README.md
-
----
-
 ### API Endpoints
 1. Fetch Files
    * Endpoint: GET /file-management-api/files.php
