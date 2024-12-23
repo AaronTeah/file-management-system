@@ -85,6 +85,7 @@ A simple file management system built using **Vue.js**, **PHP**, and **MySQL**. 
 ---
 
 ### Project Structure
+'''plaintext
 file-management-system/
 ├── backend/
 │   ├── db.php
