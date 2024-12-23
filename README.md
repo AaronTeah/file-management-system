@@ -18,6 +18,11 @@ A simple file management system built using **Vue.js**, **PHP**, and **MySQL**. 
 - Backend built with PHP and MySQL.
 - Frontend developed using Vue.js with Bootstrap for styling.
 
+![1](https://github.com/user-attachments/assets/c18cc96f-957f-4faf-9b3f-f4a5e3c5d238)
+![2](https://github.com/user-attachments/assets/c2fbdbef-a7e3-4476-9f44-3ac315ae086f)
+![3](https://github.com/user-attachments/assets/7ca37885-d844-439e-9a1f-428df417de7a)
+![4](https://github.com/user-attachments/assets/28bd890e-9c17-453e-9efe-ae16d8f0301e)
+
 ---
 
 ## Technologies Used
